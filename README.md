@@ -6,14 +6,14 @@
 
 <hr/>
 
-### About me 👩🏻‍💻
+## About me 👩🏻‍💻
 
 Industrial Engineer with experience in project management, operations, and human resources in the IT and Marketing industries. Fluent in English (C2) with strong organizational, leadership, and communication skills. Currently learning Git and GitHub.
 
-### Current Projects 💼
+## Current Projects 💼
 * My own and very first webpage!
 
-### Other Interests 😊
+## Other Interests 😊
 * 🌟 Pronouns: She/her
 * 🌱 Eager to collaborate on with AWS Women Colombia, Women in Data Science, and PyLadies communities.
 * 📫 How to reach me: 
