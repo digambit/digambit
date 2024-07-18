@@ -21,6 +21,6 @@ Industrial Engineer with experience in project management, operations, and human
   * For other inquiries, feel free to email me.
 
 ## GitHub Stats 📊
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=digambit&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats-theta-olive-58.vercel.app/api?username=digambit&theme=radical&show_icons=true&hide_border=true&include_all_commits=true)
 
 Thanks for reading! Don't hesitate to connect with me 🐦
