@@ -1,7 +1,7 @@
 <h1 align="center">Hello! People call me Dig and...</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=cyan&size=30&center=true&vCenter=true&width=800&height=120&lines=I'm+a+Project+Manager;I'm+passionate+about+IT+and+Marketing;I'm+learning+how+to+code",:></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=cyan&size=30&center=true&vCenter=true&width=800&height=120&lines=I'm+an+Industrial+Engineer;I'm+passionate+about+Process+Efficiency;I'm+learning+how+to+code",:></a>
 </p>
 
 <hr/>
